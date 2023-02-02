@@ -1,0 +1,12 @@
+th,td,p,h1 {
+  text-align:center !important;
+}  
+
+button{
+  background-color: whitesmoke;
+  width:3rem;
+}
+
+button:hover {
+  background-color:blue;
+}
