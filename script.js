@@ -32,7 +32,7 @@ table.append(table_head,table_body);
 
 const div_buttons=document.createElement("div");
 div_buttons.setAttribute("id","buttons");
-div_buttons.classList.add("container","d-flex","justify-content-center");
+div_buttons.classList.add("d-flex","justify-content-center");
 div.append(div_buttons);
 
 
